@@ -1,3 +1,7 @@
 env
 .ds_store
 .env
+
+credentials/redditauth.py
+credentials/youtubeauth.py
+credentials/twitterauth.py
